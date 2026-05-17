@@ -57,7 +57,7 @@ def text_to_binary_lines(text):
     return binary_lines
 
 def print_binary(text):
-    print("\n=== Binario (archivo) ===")
+    print("\n===Binario===")
     for i, bline in enumerate(text_to_binary_lines(text), start=1):
         print(f"Line {i}: {bline}")
 
