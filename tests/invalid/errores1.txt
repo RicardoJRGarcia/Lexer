@@ -1,0 +1,5 @@
+if x ++ y then a = b;
+if total ** 2 > 100 then pow = total ** 2;
+if a &&|| b then ok = 0;
+if 12.34.56 > 0 then badnum = 1;
+if value $ 5 then v = value;
